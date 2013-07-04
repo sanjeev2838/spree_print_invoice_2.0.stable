@@ -1,0 +1,12 @@
+en-IN:
+ order_number: 'Order number'
+ sku: 'SKU'
+ item_description: "Item description"
+ options: 'Options'
+ price: 'Price'
+ qty: "Qty"
+ total: 'Total'
+ spree:
+   print_note: "Print Note"
+ subtotal: "SubTotal"
+ order_total: "OrderTotal"
